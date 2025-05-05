@@ -7,4 +7,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=blender,flutter,python,raspberrypi,discord,html,css,js,flask,github,gcp,)](https://skillicons.dev)
 
-plagiarism source　Kaito1108 Thanks!
+plagiarism source→Kaito1108 Thanks!
